@@ -34,8 +34,8 @@ Dataset: Utilized a voice dataset (voice.csv) containing various features extrac
 
 Dataset: The dataset voice.csv contains the voice features and is used to train the model.
 
-#Code Overview
-#Parameters
+# Code Overview
+* Parameters *
 -  train_size: Proportion of the dataset used for training.
 
 -  random_state: Random seed for reproducibility.
